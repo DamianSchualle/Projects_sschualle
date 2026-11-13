@@ -18,7 +18,7 @@ Estos son mis proyectos aplicados más importantes, donde abordo el ciclo de vid
 
 | Proyecto | Descripción | Herramientas |
 | :--- | :--- | :--- |
-| **[Modelado Econométrico de Series Temporales](en proceso)** | Ajuste y evaluación de modelos autorregresivos (ARIMA, SARIMAX) para el pronóstico de variables macroeconómicas. | `statsmodels`, `pandas`, `numpy` |
+| **Modelado Econométrico de Series Temporales (en proceso)** | Ajuste y evaluación de modelos autorregresivos (ARIMA, SARIMAX) para el pronóstico de variables macroeconómicas (IPC Patagónico). | `statsmodels`, `pandas`, `numpy` |
 
 
 ---
